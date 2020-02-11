@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jianyu Niu’s Home Page
+name: Jianyu Niu
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Electrical Engineering
+role: Third-year Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,11 @@ organizations:
   url: "https://ok.ubc.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include wirless communication and distributed syatem.  Currently, I am focusing on fault tolerant consensus and Nakamoto Consensus (aka blockchain).
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Distributed system 
+- Wireless communication
 
 education:
   courses:
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a second-year Ph.D. student at School of Engineering, University of British Columbia, supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
-My research interests lie in distributed system, cybersecurity, as well as blockchain technologies.
-Recently, I have been focusing on off-chain scaling technologies, including payment channel networks and sidechains.
+I am currently a third-year Ph.D. student at School of Engineering, University of British Columbia (Okanagan Campus), supervised by [Prof. Chen Feng](https://people.ok.ubc.ca/cfeng01/index.html), who is the co-cluster lead of [Blockchain@UBC](https://blockchain.ubc.ca).
+My research interests lie in distributed system and blockchain technologies.
+Recently, I have been focusing on the scalability and incentive analysis of NC-based blockchains and BFT. 

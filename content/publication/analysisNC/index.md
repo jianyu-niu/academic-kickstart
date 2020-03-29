@@ -1,6 +1,6 @@
 +++
 title = "Analysis of Nakamoto Consensus, Revisited"
-date = 2019-10
+date = 2019-10-18
 authors = ["Jianyu Niu", "Chen Feng", "Hoang Dau", "Yu-Chih Huang", "Jingge Zhu"]
 publication_types = ["2"]
 featured = false

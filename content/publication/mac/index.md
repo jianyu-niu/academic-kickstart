@@ -1,6 +1,6 @@
 +++
 title = "A fully-distributed directional-to-directional MAC protocol for mobile ad hoc networks"
-date = 2015-01
+date = 2015-02-16
 authors = ["Jianyu Niu", "Ruonan Zhang", "Lin Cai", "Jianping Yuan"]
 publication_types = ["2"]
 featured = false

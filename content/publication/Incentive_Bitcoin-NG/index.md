@@ -1,6 +1,6 @@
 +++
 title = "Incentive Analysis of Bitcoin-NG, Revisited"
-date = 2020-01
+date = 2020-01-14
 authors = ["Jianyu Niu", "Ziyu Wang", "Fangyu Gai", "Chen Feng"]
 publication_types = ["2"]
 featured = false

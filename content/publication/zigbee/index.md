@@ -1,7 +1,7 @@
 +++
 title = "Design and experimental evaluation of long-distance and high-mobility ZigBee transceivers for WSNs"
 date = 2013-08
-authors = ["Jianyu Niu", "Ruonan Zhang", "Lin Cai", "Jianping Yuan"]
+authors = ["Jianyu Niu", "Ruonan Zhang", "Guangde Wang", "Shuguang Li", "Shuai Wan"]
 publication_types = ["2"]
 featured = false
 publication = "*IEEE*"

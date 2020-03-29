@@ -1,6 +1,6 @@
 +++
 title = "Selfish Mining in Ethereum"
-date = 2019-07
+date = 2019-07-07
 authors = ["Jianyu Niu", "Chen Feng"]
 publication_types = ["2"]
 featured = false
